@@ -95,7 +95,7 @@ Dataset contains:
 
 ## 🌐 Future Improvements
 
-* Deploy on Netlify / Streamlit Cloud
+* Deploy on Netlify / Streamlit Cloud (http://10.162.195.111:8501)
 * Add more features
 * Improve accuracy
 * Add graphs
